@@ -5,7 +5,7 @@ A playful interactive web experience where your hand gestures control a blooming
 ## Live Preview
 
 Open the project here:
-https://htmlpreview.github.io/?https://raw.githubusercontent.com/mitulaghara/RedBloom-Effect/main/index.html
+https://redbloom-effect.netlify.app/
 
 ## Features
 
